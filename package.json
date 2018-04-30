@@ -11,6 +11,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "@progress/kendo-ui": "^2018.1.425",
     "vue": "^2.5.2"
   },
   "devDependencies": {
