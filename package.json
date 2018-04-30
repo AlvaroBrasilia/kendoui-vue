@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@progress/kendo-buttons-vue-wrapper": "^2018.1.313",
+    "@progress/kendo-datasource-vue-wrapper": "^2018.1.313",
+    "@progress/kendo-grid-vue-wrapper": "^2018.1.313",
     "@progress/kendo-ui": "^2018.1.425",
     "vue": "^2.5.2"
   },
